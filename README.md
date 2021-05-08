@@ -1,2 +1,2 @@
 # my-html-css-training
-My journey of learning many aspects of styling web pages
+My Journey on Learning HTML and CSS
